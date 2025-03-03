@@ -3,6 +3,8 @@
 
 This is a simple calculator web application built using **HTML, CSS, and JavaScript**. It provides basic arithmetic operations like addition, subtraction, multiplication, and division.
 
+PS: I have also provided an App screenshot for you to review before cloning or downloading this App.
+
 
 ## Features
 - Simple and responsive UI
