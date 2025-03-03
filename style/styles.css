@@ -1,3 +1,10 @@
+/* ================================
+   Simple UI Calculator - CSS File
+   Author: Shahzad S.
+   Description: Styles for the calculator layout and design
+   ================================ */
+
+
 @import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
 body{
     height: 100vh;
