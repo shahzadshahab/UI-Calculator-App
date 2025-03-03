@@ -1,3 +1,9 @@
+// ================================
+// Simple UI Calculator - JavaScript File
+// Author: Shahzad S.
+// Description: Provides functionality for the calculator
+// ================================
+
 
 const display = document.getElementById("display");
 
