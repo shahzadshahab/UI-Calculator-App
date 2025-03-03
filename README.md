@@ -18,7 +18,7 @@ This is a simple calculator web application built using **HTML, CSS, and JavaScr
 
 ## How to Use
 1. Clone this repository:
-   "git clone https://github.com/yourusername/simple-ui-calculator.git"
+   "git clone https://github.com/shahzadshahab/UI-Calculator-App.git"
 
 2. Open the `index.html` file in your browser.
 
